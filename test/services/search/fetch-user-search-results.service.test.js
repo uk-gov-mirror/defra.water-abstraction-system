@@ -68,7 +68,7 @@ describe('Search - Fetch user search results service', () => {
             id: users[0].id,
             lastLogin: users[0].lastLogin,
             username: users[0].username
-          },
+          }
         ],
         total: 1
       })
@@ -125,7 +125,7 @@ describe('Search - Fetch user search results service', () => {
             id: users[0].id,
             lastLogin: users[0].lastLogin,
             username: users[0].username
-          },
+          }
         ],
         total: 3
       })
